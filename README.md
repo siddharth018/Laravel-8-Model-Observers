@@ -1,5 +1,10 @@
 ## How to Verify phone number using firebase in laravel 8
 
+https://console.firebase.google.com/u/0/project/test-e434b/authentication/providers
+
+
+https://console.firebase.google.com/u/0/project/test-e434b/settings/cloudmessaging/web:ZjgwYzgxYmEtMmQ2OS00NDJkLWE5MDEtYjc5ZDAyNTA4OTY3
+
 Read More: https://realprogrammer.in/how-to-verify-phone-number-using-firebase-in-laravel-8/
 ## About
 
@@ -31,7 +36,7 @@ var firebaseConfig = {
 ```
 https://console.firebase.google.com/u/0/project/test-e434b/authentication/providers
 
-http://localhost/firebase-phone-authentication
+http://127.0.0.1:8000/product
 
 Step second: Run server
 

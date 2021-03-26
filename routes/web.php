@@ -2,8 +2,8 @@
   
 use Illuminate\Support\Facades\Route;
   
-use App\Http\Controllers\FirebaseController;
-  
+use App\Http\Controllers\ProductController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,4 +15,5 @@ use App\Http\Controllers\FirebaseController;
 |
 */
   
-Route::get('firebase-phone-authentication', [FirebaseController::class, 'index']);
+
+Route::get('product', [ProductController::class, 'index']);
