@@ -5,7 +5,7 @@ https://console.firebase.google.com/u/0/project/test-e434b/authentication/provid
 
 https://console.firebase.google.com/u/0/project/test-e434b/settings/cloudmessaging/web:ZjgwYzgxYmEtMmQ2OS00NDJkLWE5MDEtYjc5ZDAyNTA4OTY3
 
-Read More: https://realprogrammer.in/how-to-verify-phone-number-using-firebase-in-laravel-8/
+Read More: https://realprogrammer.in/laravel-model-observers-tutorial-example-from-scratch/
 ## About
 
 First Step: download in your system.
