@@ -10,33 +10,19 @@ Read More: https://realprogrammer.in/how-to-verify-phone-number-using-firebase-i
 
 First Step: download in your system.
 
-git clone https://github.com/siddharth018/l8firebase.git 
+git clone https://github.com/siddharth018/Laravel-8-Model-Observers.git
 
-cd l8firebase
+cd Laravel-8-Model-Observers
 
 composer install
 
 cp .env.example .env
 
-Put your credentils below.
+Put your credentils .env file.
 
 Change js credentils below.
 
-```js
-var firebaseConfig = {
-    apiKey: "AIzaSyCg-NbICvCrdlzpPuRGtfFpPKKBxkXqQfE",
-    authDomain: "test-e434b.firebaseapp.com",
-    databaseURL: "https://test-e434b.firebaseapp.com",
-    projectId: "test-e434b",
-    storageBucket: "test-e434b.appspot.com",
-    messagingSenderId: "108177260687787",
-    appId: "1:1081772606944:web:9817e1803948b1699d1785",
-    measurementId: "p266654122"
-};
-```
-https://console.firebase.google.com/u/0/project/test-e434b/authentication/providers
-
-http://127.0.0.1:8000/product
+http://127.0.0.0:8000/product
 
 Step second: Run server
 
