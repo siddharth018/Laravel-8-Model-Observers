@@ -1,4 +1,4 @@
-## How to Verify phone number using firebase in laravel 8
+## Laravel Model Observers Tutorial Example From Scratch
 
 Read More: https://realprogrammer.in/laravel-model-observers-tutorial-example-from-scratch/
 ## About
